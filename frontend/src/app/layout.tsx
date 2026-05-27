@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: {
     default: 'BoxMeOut — Boxing Prediction Markets',
-    template: '%s | BoxMeOut',
+    template: '%s — BoxMeOut',
   },
   description: 'Decentralized boxing prediction market powered by Stellar Soroban smart contracts.',
 };
